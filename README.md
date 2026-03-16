@@ -13,7 +13,7 @@ a Junior Software Developer with a strong foundation in **Mathematical Sciences*
 - **Email:** [matlakalakabelo1@gmail.com](mailto:matlakalakabelo1@gmail.com)  
 - **Phone:** [+27 72 713 8367](tel:+27727138367)  
 - **LinkedIn:** [linkedin.com/in/kabelo-matlakala](https://www.linkedin.com/in/kabelo-matlakala-704349273)  
-- **Portfolio:** [kpmatlakala-portfolio]([https://github.com/kpmatlakala](https://kpmatlakala-portfolio.vercel.app/))  
+- **Portfolio:** [kpmatlakala-portfolio](https://kpmatlakala-portfolio.vercel.app/)
 
 ### 🎓 Education & Training
 - **BSc in Mathematical Sciences**, University of Limpopo  
