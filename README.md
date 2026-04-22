@@ -1,104 +1,48 @@
-# Portfolio
+# 👋 Hi, I'm Kabelo (KP) Matlakala
 
-Welcome! I'm **Kabelo Peter Matlakala**, 
+> Data scientist & developer building practical, offline-first tech for South African communities.
 
-a Junior Software Developer with a strong foundation in **Mathematical Sciences** and hands-on experience in modern **web and mobile development**.
-
----
-
-## 👨‍💻 About Me
-
-- **Name:** Kabelo Peter Matlakala  
-- **Location:** Polokwane, Limpopo, South Africa  
-- **Email:** [matlakalakabelo1@gmail.com](mailto:matlakalakabelo1@gmail.com)  
-- **Phone:** [+27 72 713 8367](tel:+27727138367)  
-- **LinkedIn:** [linkedin.com/in/kabelo-matlakala](https://www.linkedin.com/in/kabelo-matlakala-704349273)  
-- **Portfolio:** [kpmatlakala-portfolio](https://kpmatlakala-portfolio.vercel.app/)
-
-### 🎓 Education & Training
-- **BSc in Mathematical Sciences**, University of Limpopo  
-  _2016 – 2024 (Final Year)_  
-- **Web & Mobile Development**, CodeTribe Academy  
-  _2024 – 2025 (Completed)_
+📍 Polokwane, Limpopo  
+📧 [matlakalakabelo1@gmail.com](mailto:matlakalakabelo1@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/kabelo-matlakala-704349273) • [Portfolio](https://kpmatlakala-portfolio.vercel.app/)
 
 ---
 
-I'm currently expanding my expertise in:
+## 🛠️ Core Stack
+**Frontend:** ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) • ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) • ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) • ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) • ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) • ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) • ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- **Web & Mobile Development** (React, Node.js, Firebase)
-- **Desktop Application Development** (Electron.js)
-- **Backend & APIs** (Express.js, Laravel)
-- **AI & Data Science** (Python, Machine Learning)
-- **Cloud-Native Tools** and DevOps fundamentals
+**Backend:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) • ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) • ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) • ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) • ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Currently Learning
-- `Next.js` – Server-side rendering & full-stack React apps  
-- `Electron` – Cross-platform desktop applications  
-- `Laravel` – PHP framework for modern backend development  
-- `Python for AI & Data Science` – Focus on automation, ML models, and analysis  
-- `AI for Software Engineering` – Using AI tools to write, review, and improve code  
+**Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) • ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) • ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) • ![Agile](https://img.shields.io/badge/Agile-02569B?style=for-the-badge&logo=scrumalliance&logoColor=white) • ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=trello&logoColor=white) • ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 
-## Skills & Tools
+**Data & AI:** ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) • ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) • ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
-### **Frameworks & Libraries**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Electron.js](https://img.shields.io/badge/Electron-2C2E3B?style=for-the-badge&logo=electron&logoColor=9FEAF9)
+**Exploring:** ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) • ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white) • ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+---
 
+## 🎓 Background
 
-### **Languages**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+**Education**
+- **BSc in Mathematical Sciences** – University of Limpopo *(2016 – 2024)*  
+- **Web & Mobile Development** – CodeTribe Academy *(2024 – 2025)*
 
-### **Tools & Concepts**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-02569B?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=trello&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+**Experience**
+- **Trainee Developer** – CodeTribe Academy *(2024 – 2025)*  
+  Building real-world apps using Agile, Git, and modern JavaScript stacks.
+- **Student Assistant (ICT Lab)** – University of Limpopo *(2022)*  
+  Supported peers with academic software, debugging, and basic IT troubleshooting.
+- **Mentor** – Eskom Expo for Young Scientists & Limpopo Varsity Hackathon *(2019 – Present)*  
+  Guiding learners in STEM project development and introductory coding workshops.
 
 ---
 
-## Work Experience
+## 📬 Let's Connect
 
-- **Student Assistant – Computer Lab**  
-  *University of Limpopo, ICT Department*  
-  *2022*  
-  Supported fellow students in using academic software and troubleshooting basic IT issues.
+I'm open to internships, freelance collaborations, and community-tech partnerships—especially projects focused on rural impact, digital inclusion, or embedded systems.
 
-- **Mentor – Eskom Expo for Young Scientists**  
-  *2019*  
-  Assisted learners in developing STEM research projects and presenting findings.
-
-- **Trainee Developer – CodeTribe Academy**  
-  *2024 – 2025*  
-  Working on real-world projects using Agile methodologies and collaborative version control.
-
-- **Freelancing - Frontend Mentor**
-  *2025*
-  A compilation of completed UI challenges based on real-world layouts and user stories.  
-  Focused on **pixel-perfect design**, **responsiveness**, and **accessibility**.
-
-  **Challenges Include:**
-  - Results Summary Component
-  - Stats Preview Card
-  - Interactive Rating Component
-
-  📁 [View Challenge Code](https://kpm-frontendmentor.vercel.app/)
+→ [Email me](mailto:matlakalakabelo1@gmail.com)  
+→ [Download my CV](./kpm-resume.pdf)  
+→ [View my LinkedIn](https://linkedin.com/in/kabelo-matlakala-704349273)
 
 ---
 
@@ -110,5 +54,4 @@ This portfolio is created for educational and professional development purposes.
 
 ### Thank You for Visiting!
 
-Feel free to reach out via [email](mailto:matlakalakabelo1@gmail.com) or connect on [LinkedIn]([https://linkedin.com/in/kabelo-matlakala](https://www.linkedin.com/in/kabelo-matlakala-704349273/)). I'm open to internships, freelance opportunities, and junior dev roles!
-
+Feel free to reach out via [email](mailto:matlakalakabelo1@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/kabelo-matlakala-704349273). I'm open to internships, freelance opportunities, and junior dev roles!
