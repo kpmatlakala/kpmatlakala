@@ -1,4 +1,4 @@
-# Kabelo (KP) Matlakala
+# Kabelo P. Matlakala
 
 **Software Engineer** with hands-on experience in data and full-stack development, building practical, offline-first tech for South African communities.
 
@@ -70,7 +70,5 @@ I am actively seeking internships, junior software engineering roles, and freela
 
 [![Email](https://img.shields.io/badge/Email-matlakalakabelo1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matlakalakabelo1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kabelo_Matlakala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kabelo-matlakala-704349273)
-[![Portfolio](https://img.shields.io/badge/Portfolio-kpmatlakala.vercel.app-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://kpmatlakala-portfolio.vercel.app/)
-[![Download CV](https://img.shields.io/badge/Download-CV-2D9C3B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./kpm-resume.pdf)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-kpmatlakala.vercel.app-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://kpmatlakala.co.za/)
 ---
